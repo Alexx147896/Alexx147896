@@ -33,7 +33,6 @@ I'm Alex and i'm a junior frontend developer. Currently I work with React but i'
 # ✍️ **Long term goals:**
 
 - Become a Full-Stack developer
-- Creating my own version of Goodreads for me and my friends
 - Start my own tech company or develop a software product that could turn into a successful business
 
 <br />
