@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # **💫 About Me:**
 
 Hello!
-I'm Alex and i'm a front end developer. Currently I work with React but i'm willing to learn any framework or language. 
+I'm Alex and i'm a junior frontend developer. Currently I work with React but i'm willing to learn any framework or language. 
 
 I quit my previous job at a laboratory to pursue a career in programming. 
 
