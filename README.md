@@ -50,5 +50,6 @@ I'm Alex and i'm a junior frontend developer. Currently I work with React but i'
 
 # ⚡ **Interests:**
 
-- I like reading and writing my own stories. If you are interested in what i read check out my  [![Goodreads](https://img.shields.io/badge/-Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/108449329-alex)
+- I play 🎸
+- I like reading and writing. If you are curious about what i read check out my  [![Goodreads](https://img.shields.io/badge/-Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/108449329-alex)
   profile
