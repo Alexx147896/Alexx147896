@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 # **💫 About Me:**
 
 Hello!
-I'm Alex and i'm a junior frontend developer. Currently I work with React but i'm willing to learn any framework or language. 
+I'm Alex and i'm a junior frontend developer. Currently I work with React but i'm willing to learn any framework or language.
 
-I quit my previous job at a laboratory to pursue a career in programming. 
 
 <br />
 
@@ -46,3 +45,10 @@ I quit my previous job at a laboratory to pursue a career in programming.
 | Frontend | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) |
 | I have tried | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Astro](https://img.shields.io/badge/-Astro-FF5C5C?style=flat-square&logo=astro&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=flat-square&logo=strapi&logoColor=white) |
 | Tools | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) |
+
+<br />
+
+# ⚡ **Interests:**
+
+- I like reading and writing my own stories. If you are interested in what i read check out my  [![Goodreads](https://img.shields.io/badge/-Goodreads-372213?style=flat-square&logo=goodreads&logoColor=white)](https://www.goodreads.com/user/show/108449329-alex)
+  profile
